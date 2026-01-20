@@ -45,7 +45,7 @@ Throughout the development of this project, I have sought inspiration from a piv
 
 ## Conclusion
 
-The project was successful in answering the set of questions about an E-commerce Store's performance. The results of the project can be found in result.txt file.
+The project was successful in answering the set of questions about an E-commerce Store's performance. 
 
 
 <!--## How to Contribute
